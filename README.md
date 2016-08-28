@@ -1,5 +1,5 @@
 
-Inside this directory following assets will be found.
+Inside the AgeRanger.zip file the following assets will be found.
 
 1. AgeRanger, this is the C# single page application that allow users to add, edit, delete and find people.
 2. AgeRangerTest directory contains the unit tests application to be used for custom test cases.
